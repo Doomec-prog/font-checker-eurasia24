@@ -11,7 +11,7 @@ const NavBar: React.FC = () => {
             <a 
               key={index} 
               href="#" 
-              className="whitespace-nowrap text-brand-dark hover:text-brand-orange transition-colors font-serif"
+              className="whitespace-nowrap text-brand-dark hover:text-brand-orange transition-colors"
               style={{
                 fontWeight: 600,
                 fontSize: '16px',
